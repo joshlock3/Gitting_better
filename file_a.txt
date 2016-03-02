@@ -1,1 +1,3 @@
 Contents of File A
+
+This is a new change.
