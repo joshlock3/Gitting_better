@@ -1,1 +1,3 @@
 Contents of File B
+
+I am mkaing a change to file b.
